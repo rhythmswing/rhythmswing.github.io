@@ -24,7 +24,5 @@ Work experience
   * Georgia Institute of Technology
   * Supervisor: Prof Chao Zhang
 
-Projects
-======
 
   
